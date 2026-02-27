@@ -1,0 +1,47 @@
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Data and models (too large for git)
+datasets/
+*.pth
+*.pt
+*.ckpt
+
+# Results (can be regenerated)
+results/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+*.env
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Claude files
+.claude/
+agents/
+skills/
+
+# Transcripts
+*.jsonl
+
+# Figures (keep .png, exclude .pdf)
+figures/*.pdf
