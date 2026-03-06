@@ -186,15 +186,7 @@ Each dataset uses a fixed 70/15/15 split with seed=42.
 
 ## Citation
 
-```bibtex
-@article{ecamgnet2026,
-  title   = {ECA-MGNet: An Efficient Multi-Scale Ghost Network with Dual Attention
-             for Lightweight Image Classification},
-  author  = {Musaev, Javokhir},
-  journal = {Expert Systems with Applications},
-  year    = {2026},
-}
-```
+
 
 ---
 
