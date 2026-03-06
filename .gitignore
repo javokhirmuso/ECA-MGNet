@@ -7,14 +7,12 @@ build/
 .eggs/
 *.egg
 
-# Data and models (too large for git)
+# Data (too large for git)
 datasets/
-*.pth
+
+# Model checkpoints (except weights/ directory which is tracked)
 *.pt
 *.ckpt
-
-# Results (can be regenerated)
-results/
 
 # IDE
 .vscode/

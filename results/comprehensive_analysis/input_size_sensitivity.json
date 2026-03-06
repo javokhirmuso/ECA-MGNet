@@ -1,0 +1,66 @@
+{
+  "flowers102": {
+    "128": {
+      "test_accuracy": 0.9858156028368794,
+      "best_val_acc": 1.0,
+      "latency_ms": 7.992517999373376,
+      "epochs_trained": 19
+    },
+    "160": {
+      "test_accuracy": 0.9822695035460993,
+      "best_val_acc": 1.0,
+      "latency_ms": 8.257296000374481,
+      "epochs_trained": 16
+    },
+    "192": {
+      "test_accuracy": 0.9822695035460993,
+      "best_val_acc": 0.9928571428571429,
+      "latency_ms": 7.320074000163004,
+      "epochs_trained": 11
+    },
+    "224": {
+      "test_accuracy": 0.9893617021276596,
+      "best_val_acc": 1.0,
+      "latency_ms": 7.164787999354303,
+      "epochs_trained": 14
+    },
+    "256": {
+      "test_accuracy": 0.9964539007092199,
+      "best_val_acc": 1.0,
+      "latency_ms": 7.698070000624284,
+      "epochs_trained": 19
+    }
+  },
+  "eurosat": {
+    "128": {
+      "test_accuracy": 0.9377777777777778,
+      "best_val_acc": 0.9355555555555556,
+      "latency_ms": 6.899227999383584,
+      "epochs_trained": 23
+    },
+    "160": {
+      "test_accuracy": 0.9644444444444444,
+      "best_val_acc": 0.96,
+      "latency_ms": 7.179175999481231,
+      "epochs_trained": 27
+    },
+    "192": {
+      "test_accuracy": 0.9577777777777777,
+      "best_val_acc": 0.9444444444444444,
+      "latency_ms": 6.755969999358058,
+      "epochs_trained": 28
+    },
+    "224": {
+      "test_accuracy": 0.9466666666666667,
+      "best_val_acc": 0.9533333333333334,
+      "latency_ms": 6.943538000341505,
+      "epochs_trained": 29
+    },
+    "256": {
+      "test_accuracy": 0.9355555555555556,
+      "best_val_acc": 0.9444444444444444,
+      "latency_ms": 7.079753999132663,
+      "epochs_trained": 13
+    }
+  }
+}

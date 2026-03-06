@@ -1,0 +1,30 @@
+{
+  "flowers102": {
+    "class_0": {
+      "class_name": "Coltsfoot",
+      "clean_confidence": 0.9459173679351807,
+      "max_sensitivity": 0.0031872987747192383,
+      "mean_sensitivity": 0.00022001333236694337
+    },
+    "class_3": {
+      "class_name": "Kalmia",
+      "clean_confidence": 0.9170259833335876,
+      "max_sensitivity": 0.005168557167053223,
+      "mean_sensitivity": -0.002308094596862793
+    }
+  },
+  "eurosat": {
+    "class_0": {
+      "class_name": "AnnualCrop",
+      "clean_confidence": 0.9270395040512085,
+      "max_sensitivity": 0.01206737756729126,
+      "mean_sensitivity": 0.0029359590530395508
+    },
+    "class_3": {
+      "class_name": "Highway",
+      "clean_confidence": 0.9322118163108826,
+      "max_sensitivity": 0.014612138271331787,
+      "mean_sensitivity": -0.0002657759666442871
+    }
+  }
+}

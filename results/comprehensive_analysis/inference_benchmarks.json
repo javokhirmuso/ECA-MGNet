@@ -1,0 +1,42 @@
+{
+  "ecamgnet": {
+    "params_M": 2.502501,
+    "latency_ms": 7.203106000088155,
+    "latency_std": 0.3146657631160451,
+    "throughput_fps": 138.8289995993064,
+    "model_size_mb": 9.75690746307373,
+    "peak_gpu_mem_mb": 25.20068359375
+  },
+  "mobilenetv2": {
+    "params_M": 2.236682,
+    "latency_ms": 4.06201999518089,
+    "latency_std": 0.07954814783342828,
+    "throughput_fps": 246.1829339063773,
+    "model_size_mb": 8.76832103729248,
+    "peak_gpu_mem_mb": 28.04150390625
+  },
+  "shufflenetv2": {
+    "params_M": 1.263854,
+    "latency_ms": 5.002456000074744,
+    "latency_std": 0.26861007263794795,
+    "throughput_fps": 199.9018082288097,
+    "model_size_mb": 4.9896345138549805,
+    "peak_gpu_mem_mb": 16.6025390625
+  },
+  "efficientnet_b0": {
+    "params_M": 4.020358,
+    "latency_ms": 6.542319995933212,
+    "latency_std": 0.5241535611154469,
+    "throughput_fps": 152.8509765070514,
+    "model_size_mb": 15.625554084777832,
+    "peak_gpu_mem_mb": 34.87451171875
+  },
+  "resnet18": {
+    "params_M": 11.181642,
+    "latency_ms": 2.2518579981988296,
+    "latency_std": 0.07442699064384119,
+    "throughput_fps": 444.077735274542,
+    "model_size_mb": 42.73084545135498,
+    "peak_gpu_mem_mb": 61.62939453125
+  }
+}
